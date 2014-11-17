@@ -1,3 +1,11 @@
+qpid-proton (0.7-2) unstable; urgency=low
+
+  * Change dependency from libsslcommon2-dev to libssl-dev. (Closes: #768617)
+  * Bumped Standards-Version to 3.9.6.
+  * Added support for dh_python2.
+
+ -- Darryl L. Pierce <dpierce@redhat.com>  Wed, 12 Nov 2014 15:58:45 -0500
+
 qpid-proton (0.7-1) unstable; urgency=low
 
   * Initial release. (Closes: #732302)
