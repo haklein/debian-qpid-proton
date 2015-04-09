@@ -54,4 +54,5 @@ override_dh_auto_install:
 	chmod +x debian/tmp/usr/share/proton/examples/perl/messenger/recv.pl
 	chmod +x debian/tmp/usr/share/proton/examples/perl/messenger/send.pl
 	chmod +x debian/tmp/usr/share/proton/examples/perl/messenger/server.pl
+	rm -rf debian/tmp/usr/share/proton/examples/ruby
 
