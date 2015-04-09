@@ -51,4 +51,12 @@ override_dh_auto_install:
 	chmod +x debian/tmp/usr/share/proton/examples/perl/messenger/send.pl
 	chmod +x debian/tmp/usr/share/proton/examples/perl/messenger/server.pl
 	rm -rf debian/tmp/usr/share/proton/examples/ruby
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/client.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/drain.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/proxy.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/qpid-config.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/recv.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/send.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/server.js
+	chmod +x debian/tmp/usr/share/proton/examples/javascript/messenger/spout.js
 
