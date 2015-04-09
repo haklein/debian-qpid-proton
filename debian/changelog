@@ -1,3 +1,9 @@
+qpid-proton (0.9-1) unstable; urgency=low
+
+  * Rebased on Proton 0.9.
+
+ -- Darryl L. Pierce <dpierce@redhat.com>  Thu, 09 Apr 2015 09:29:58 -0400
+
 qpid-proton (0.7-8trusty+mcpierce1) trusty; urgency=low
 
   * Bumped the release to include the FTBFS bug id. (Closes: #768617)
