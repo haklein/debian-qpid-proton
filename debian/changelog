@@ -1,4 +1,4 @@
-qpid-proton (0.9-1) unstable; urgency=low
+qpid-proton (0.9-1trusty+mcpierce1) trusty; urgency=low
 
   * Rebased on Proton 0.9.
 
