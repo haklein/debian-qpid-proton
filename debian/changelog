@@ -1,3 +1,9 @@
+qpid-proton (0.9-1) UNRELEASED; urgency=low
+
+  * Rebased on Proton 0.9 
+
+ -- Darryl L. Pierce <dpierce@redhat.com>  Thu, 23 Apr 2015 15:53:39 -0400
+
 qpid-proton (0.7-2) unstable; urgency=low
 
   * Change dependency from libsslcommon2-dev to libssl-dev. (Closes: #768617)
