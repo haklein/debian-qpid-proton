@@ -1,2 +1,3 @@
 usr/lib/*/libqpid-proton.so
+usr/lib/pkgconfig/libqpid-proton.pc
 usr/include/proton
